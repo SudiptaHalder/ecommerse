@@ -5,10 +5,10 @@ import { motion } from 'framer-motion'
 export default function FeaturedBeautyProducts() {
   const products = [
     {
-      title: "Vistiq Signature Scented Candle",
+      title: "Eloria Signature Scented Candle",
       price: "$46",
       image: "/spa8.jpg", // Luxury candle
-      href: "./shop/vistiq-signature-scented-candle"
+      href: "./shop/Eloria-signature-scented-candle"
     },
     {
       title: "Botanical Room & Linen Mist",
@@ -31,7 +31,7 @@ export default function FeaturedBeautyProducts() {
         <div className="text-center mb-20">
           <header className="mb-8">
             <div className="mb-4">
-              <p className="text-[#333] font-medium text-lg">Vistiq Picks</p>
+              <p className="text-[#333] font-medium text-lg">Eloria Picks</p>
             </div>
             <div>
               <h2 className="text-4xl sm:text-5xl lg:text-6xl font-light text-[#333] leading-tight">

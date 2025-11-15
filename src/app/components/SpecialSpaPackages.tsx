@@ -11,7 +11,7 @@ export default function SpecialSpaPackages() {
       image: "/spa1.jpg",
       services: [
         "Radiance Boost Facial",
-        "Vistiq Gua Sha Facial Ritual",
+        "Eloria Gua Sha Facial Ritual",
         "Eye & Lip Revival Add-On"
       ],
       href: "#"
@@ -22,7 +22,7 @@ export default function SpecialSpaPackages() {
       price: "$265",
       image: "/spa2.jpg",
       services: [
-        "Vistiq Signature Hot Stone Massage",
+        "Eloria Signature Hot Stone Massage",
         "Upper Body Hot Stone Therapy",
         "Hot Stone Scalp & Neck Ritual"
       ],
@@ -34,8 +34,8 @@ export default function SpecialSpaPackages() {
       price: "$255",
       image: "/spa3.jpg",
       services: [
-        "Vistiq Signature Manicure",
-        "Vistiq Signature Pedicure",
+        "Eloria Signature Manicure",
+        "Eloria Signature Pedicure",
         "Aromatherapy Spa Pedicure"
       ],
       href: "#"

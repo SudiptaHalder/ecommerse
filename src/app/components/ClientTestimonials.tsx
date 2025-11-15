@@ -5,9 +5,9 @@ import { motion } from "framer-motion";
 export default function ClientTestimonials() {
   const main = {
     quote:
-      "Everything from the lighting to the therapist's energy feels intentional. Vistiq isn't a spa. It's an experience.",
+      "Everything from the lighting to the therapist's energy feels intentional. Eloria isn't a spa. It's an experience.",
     image:
-      "https://framerusercontent.com/images/5PXFsSTR4klm8qRCEkw9moSblY.png?scale-down-to=1024",
+      "/model.jpg",
   };
 
   const testimonials = [
@@ -15,7 +15,7 @@ export default function ClientTestimonials() {
       id: 1,
       name: "Aria M",
       role: "Travel Writer",
-      quote: "The moment I step into Vistiq, the outside world fades.",
+      quote: "The moment I step into Eloria, the outside world fades.",
       image:
         "https://framerusercontent.com/images/Yj75uUzBke8UeYiRKxUE2jnj2Y.png?width=480&height=480",
     },

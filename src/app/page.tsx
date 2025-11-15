@@ -1,3 +1,4 @@
+
 import Hero from './components/SpaHero'
 import TextReveal from './components/TextReveal'
 import Features from './components/FeaturedBeautyProducts'
@@ -11,9 +12,11 @@ import ClientTestimonials from './components/ClientTestimonials'
 import BlogSection from './components/BlogSection'
 import NewsletterSection from './components/NewsletterSection'
 import Footer from './components/Footer'
-
+import Header from './components/Header'
 export default function Home() {
   return (
+    <>
+    <Header />
     <main className="min-h-screen bg-essentia-beige">
       <Hero />
       <Statistics />
@@ -30,5 +33,6 @@ export default function Home() {
      
       {/* Add more sections as needed */}
     </main>
+    </>
   )
 }

@@ -28,7 +28,7 @@ export default function SpaHero() {
         className="absolute inset-6 mx-6 overflow-hidden"
       >
         <img
-          src="/spa1.jpg"
+          src="/spa.jpg"
           alt="Luxury spa interior with warm lighting and natural elements"
           className="w-full h-full object-cover"
         />

@@ -4,13 +4,13 @@ import { motion } from 'framer-motion'
 
 export default function WhyUs() {
   return (
-    <section className="bg-[#fafafa] py-16 px-2 sm:px-4">
+    <section className="bg-[#fafafa] py-16 px-2 sm:px-4 -mt-20">
       <div className="max-w mx-auto">
         {/* Header Content */}
         <div className="text-center mb-12">
           <header className="mb-6">
             <div className="mb-3">
-              <p className="text-[#333] font-medium text-lg">The Vistiq Experience</p>
+              <p className="text-[#333] font-medium text-lg">The Eloria Experience</p>
             </div>
             <div>
               <h2 className="text-3xl sm:text-4xl lg:text-5xl font-light text-[#333] leading-tight">
@@ -72,7 +72,7 @@ export default function WhyUs() {
               <div className="mb-4 flex-1">
                 <h3 className="text-lg font-semibold text-[#333] mb-2">Community Love</h3>
                 <p className="text-[#666] text-xs leading-relaxed">
-                  Vistiq is more than a spa — it's a part of our clients' self-care rituals. 
+                  Eloria is more than a spa — it's a part of our clients' self-care rituals. 
                   From first-time guests to loyal regulars, our community keeps coming back 
                   for the warmth, the care, and the calm.
                 </p>
@@ -139,7 +139,7 @@ export default function WhyUs() {
                 <header className="mb-4">
                   <h3 className="text-xl font-semibold text-white mb-3">Professionals You Can Trust</h3>
                   <p className="text-white/90 text-sm leading-relaxed">
-                    At Vistiq, our team consists of highly trained, certified spa and wellness professionals. 
+                    At Eloria, our team consists of highly trained, certified spa and wellness professionals. 
                     From licensed massage therapists to expert estheticians, every practitioner is 
                     hand-selected for their skill, experience, and intuitive care.
                   </p>
